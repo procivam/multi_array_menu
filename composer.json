@@ -1,0 +1,14 @@
+{
+    "name": "procivam/multi_array_menu",
+    "description": "Package allow generate menu or another structure elements from multiple array. And can search in array or subarray elemest by value or key.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Protsiv Andrey",
+            "email": "procivam@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
